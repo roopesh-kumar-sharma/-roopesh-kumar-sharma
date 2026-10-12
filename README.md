@@ -49,8 +49,11 @@ Hands-on work with Linux administration, virtualization, monitoring, logging, an
 ## Connect
 
 - **Portfolio:** https://rupesh.co.uk
-- **LinkedIn:** Add your LinkedIn profile URL here
-- **GitHub:** Add your GitHub profile URL here
+- **LinkedIn:** https://linkedin.com/in/rupeshkumarsharma
+- **GitHub:** https://github.com/roopesh-kumar-sharma
+- **Medium Blog:** https://medium.com/rupesh@203
+
+- 
 
 ---
 
