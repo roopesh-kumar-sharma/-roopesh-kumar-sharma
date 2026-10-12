@@ -51,10 +51,8 @@ Hands-on work with Linux administration, virtualization, monitoring, logging, an
 - **Portfolio:** https://rupesh.co.uk
 - **LinkedIn:** https://linkedin.com/in/rupeshkumarsharma
 - **GitHub:** https://github.com/roopesh-kumar-sharma
-- **Medium Blog:** https://medium.com/rupesh@203
-
-- 
-
+- **Medium:** https://medium.com/@rupesharma203
+  
 ---
 
 I believe in learning by building, troubleshooting real systems, and sharing practical technical knowledge.
